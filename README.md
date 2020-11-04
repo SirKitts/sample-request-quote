@@ -1,3 +1,17 @@
+## How to run
+
+```
+(1) Clone this repo `git clone git@github.com:SirKitts/sample-request-quote.git`
+(2) cd sample-request-quote
+(3) yarn or npm install
+(4) yarn start or npm dev start
+
+or you can copy the /build folder into your localhost directory
+
+sample app at heroku
+https://fathomless-ocean-14867.herokuapp.com/
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
